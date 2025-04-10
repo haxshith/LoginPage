@@ -40,7 +40,7 @@ body{
 
 form{ width: 100%; }
 
-.form-box{
+/* .form-box{
     position: absolute;
     right: 0;
     width: 50%;
@@ -53,7 +53,7 @@ form{ width: 100%; }
     padding: 40px;
     z-index: 1;
     transition: .6s ease-in-out 1.2s, visibility 0s 1s;
-}
+} */
 
     .container.active .form-box{ right: 50%; }
 
@@ -109,10 +109,10 @@ form{ width: 100%; }
     font-weight: 600;
 }
 
-.social-icons{
+/* .social-icons{
     display: flex;
     justify-content: center;
-}
+} */
 
     .social-icons a{
         display: inline-flex;
